@@ -1,0 +1,76 @@
+.mynickname {
+   font-family: 'Nunito', sans-serif;
+   font-size: 100px;
+   padding-top: 30px;
+   color: #7030A0   
+}
+
+.myname {
+		font-family: 'Nunito', sans-serif;
+  	color: white;  	
+}
+
+.intro {
+	font-family: 'Noto Sans JP', sans-serif;
+  color: white;
+}
+
+p{
+		font-family: 'Noto Sans JP', sans-serif;
+}
+
+p.height{
+		line-height: 1.5
+}
+
+h1{
+	font-family: 'Nunito', sans-serif;
+}
+
+h4{
+	font-family: 'Nunito', sans-serif;
+}
+
+hr.new {
+  border: 4px solid #6600cc;
+  border-radius: 5px;
+}
+
+.accordion {
+	--bs-accordion-btn-bg: #712cf9
+}
+
+.accordion-button {
+	color: #ffffff;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #042556;
+    background-color: #bf9eff;
+    box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+    border-color: rgba(0,0,0,.125);
+}
+
+* {box-sizing: border-box}
+
+.box {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 100%; background-color: #04AA6D;}
+.css {width: 70%; background-color: #2196F3;}
+.js {width: 10%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
+.word {background-color: #F54462}

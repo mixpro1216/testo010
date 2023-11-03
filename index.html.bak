@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mixer's Resume</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600&amp;display=swap"
+
+      rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&amp;display=swap"
+
+      rel="stylesheet">
+    <meta name="description" content="This is Mixer's Resume">
+    <meta name="keywords" content="Mixer">
+  </head>
+  <body class="bg-dark">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
+crossorigin="anonymous"></script>
+    <div class="container bg-light">
+      <div class="row">
+        <nav class="navbar navbar-expand-lg fixed-top" data-bs-theme="dark" style="background-color: #712cf9;">
+          <div class="container-fluid"> <a class="navbar-brand" href="#">Mixer</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+
+              data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+
+              aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav"> <a class="nav-link active" aria-current="page"
+
+                  href="#">Home</a> <a class="nav-link" href="#skill">Skills</a>
+                <a class="nav-link">Blog</a> </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <div class="row my-auto p-3 bg-black">
+        <div class="col-md-6 px-0 col-lg-6">
+          <div id="carouselExampleIndicators" class="carousel slide">
+            <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
+
+                data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators"
+
+                data-bs-slide-to="1" aria-label="Slide 2"></button> <button type="button"
+
+                data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+
+                aria-label="Slide 3"></button> </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active"> <img src="images/mixer.jpg" class="d-block w-100"
+
+                  alt="mixer"> </div>
+              <div class="carousel-item"> <img src="images/mixer2.jpg" class="d-block w-100"
+
+                  alt="mixer"> </div>
+              <div class="carousel-item"> <img src="images/mixer3.jpg" class="d-block w-100"
+
+                  alt="mixer"> </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+
+              data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span> </button> <button
+
+              class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+
+              data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span> </button> </div>
+        </div>
+        <div class="col-md-6 col-lg-6 py-5">
+          <h1 class="mynickname">Mixer</h1>
+          <h1 class="myname"> Kanokphon Chomsri </h1>
+          <p class="intro my-0"> Faculty of Arts, Silpakorn University Student </p>
+        </div>
+      </div>
+      <div class="row my-auto p-3">
+        <h1>Mixer's Profile <img src="images/user.png" alt="profile"></h1>
+        <hr class="new">
+        <div class="col">
+          <p> <b>Major :</b> INFORMATION AND LIBRARY SCIENCE </p>
+          <p> <b>Born :</b> 25 March 2002 </p>
+          <p> <b>Occupation :</b> Student </p>
+          <p> <b>My Goal :</b> To graduate from college </p>
+        </div>
+        <div class="col">
+          <p> <b>Minor :</b> English </p>
+          <p> <b>Age :</b> 21 </p>
+          <p> <b>Location :</b> Nakon Pathom, Thailand</p>
+        </div>
+        <br>
+      </div>
+      <div class="row my-auto p-3">
+        <h4>To Contact Mixer</h4>
+        <div class="col-md-3">
+          <div>
+            <p><a href="https://www.facebook.com/mix.pro.9/"><img src="images/Facebook_Logo_%282019%29.png"
+
+                  alt="fb" style="width: 47px; height: 47px;"></a> Mix Pro</p>
+          </div>
+          <div>
+            <p><a href="https://www.instagram.com/misxelia1216/"><img src="images/instagram.png"
+
+                  alt="ig"></a> misxerlia1216</p>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div>
+            <p><a href="mailto:chomsri_k2@silpakorn.edu"><img src="images/gmail.png"
+
+                  alt="gmail"></a> chomsri_k2@silpakorn.edu</p>
+          </div>
+          <div>
+            <p><img src="images/phone.png" alt="phone"> 062-7124993</p>
+          </div>
+        </div>
+      </div>
+      <div class="row my-auto p-3">
+        <h1> Mixer's Educational&nbsp;<img src="images/mortarboard.png" alt="edu"></h1>
+        <hr class="new">
+        <div class="col">
+          <div><img src="images/Silpakorn_University_Emblem.png" class="img-fluid"
+
+              alt="sa"></div>
+          <p> <b>Bachelor Degree</b></p>
+          <p> Faculty of Arts, <br>
+            Information and Library Science Major<br>
+            Silpakorn University (Still Studying) </p>
+        </div>
+        <div class="col">
+          <div><img src="images/PT.png" class="img-fluid" alt="pt"></div>
+          <p> <b>High School</b></p>
+          <p>Phrapathom Wittiyarai School<br>
+            Eng-Math Program<br>
+            <a id="skill"> GPA : 3.91 </a> </p>
+        </div>
+      </div>
+      <div class="row my-auto p-3">
+        <h1>Mixer's Skills <img src="images/self-development.png" alt="skill"></h1>
+        <hr class="new">
+        <div class="accordion" id="accordionPanelsStayOpenExample">
+          <div class="accordion-item">
+            <h2 class="accordion-header"> <button class="accordion-button" type="button"
+
+                data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne"
+
+                aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                Basic Applications </button> </h2>
+            <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+              <div class="accordion-body"> <img src="images/word.png" class="img-fluid"
+
+                  alt="word" style="width: 103px; height: 103px;"> Microsoft
+                Word
+                <div class="progress" role="progressbar" aria-label="Info example"
+
+                  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                  <div class="progress-bar" style="width: 50%">50%</div>
+                </div>
+                <br>
+                <img src="images/powerpoint.png" class="img-fluid" alt="excel" style="width: 103px; height: 103px;">&nbsp;Microsoft
+                Powerpoint
+                <div class="progress" role="progressbar" aria-label="Info example"
+
+                  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                  <div class="progress-bar bg-danger" style="width: 60%">60%</div>
+                </div>
+                <br>
+                <img src="images/excel.png" class="img-fluid" alt="powerpoint" style="width: 103px; height: 103px;">&nbsp;Microsoft
+                Excel
+                <div class="progress" role="progressbar" aria-label="Info example"
+
+                  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                  <div class="progress-bar bg-success" style="width: 75%">75%</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header"> <button class="accordion-button collapsed"
+
+                type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo"
+
+                aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                Webpage Designs </button> </h2>
+            <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
+              <div class="accordion-body"> <img src="images/HTML.png" class="img-fluid"
+
+                  alt="html" style="width: 103px; height: 103px;">HTML
+                <div class="progress" role="progressbar" aria-label="Success example"
+
+                  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                  <div class="progress-bar bg-danger" style="width: 25%">25%</div>
+                </div>
+                <br>
+                <img src="images/CSS.png" class="img-fluid" alt="css" style="width: 103px; height: 103px;">CSS
+                <div class="progress" role="progressbar" aria-label="Success example"
+
+                  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                  <div class="progress-bar bg-info" style="width: 10%">10%</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header"> <button class="accordion-button collapsed"
+
+                type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree"
+
+                aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                Graphics </button> </h2>
+            <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
+              <div class="accordion-body"> <img src="images/photoshop.png" class="img-fluid"
+
+                  alt="photoshop" style="width: 103px; height: 103px;">Adobe
+                Photoshop
+                <div class="progress" role="progressbar" aria-label="Success example"
+
+                  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                  <div class="progress-bar bg-primary-emphasis" style="width: 30%">30%</div>
+                </div>
+                <br>
+                <img src="images/premeire%20pro.png" class="img-fluid" alt="premeire pro"
+
+                  style="width: 103px; height: 103px;">Adobe Premiere Pro
+                <div class="progress" role="progressbar" aria-label="Success example"
+
+                  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                  <div class="progress-bar bg-secondary" style="width: 40%">40%</div>
+                </div>
+                <br>
+                <img src="images/inkscape.png" alt="inkscape" style="width: 103px; height: 103px;">Inkscape
+                <div class="progress" role="progressbar" aria-label="Success example"
+
+                  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                  <div class="progress-bar bg-dark" style="width: 30%">30%</div>
+                </div>
+                <br>
+                <img src="images/wordpress.png" alt="wordpress" style="width: 103px; height: 103px;">
+                WordPress
+                <div class="progress" role="progressbar" aria-label="Success example"
+
+                  aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                  <div class="progress-bar bg-primary-emphasis" style="width: 20%">20%</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row row my-auto p-3">
+        <h1> Language <img src="images/language.png" alt="lan"></h1>
+        <hr class="new"> </div>
+      <h4>Thai</h4>
+      <div class="box">
+        <div class="skills html">100% (Native)</div>
+      </div>
+      <br>
+      <h4>English</h4>
+      <div class="box">
+        <div class="skills css">70% (Advanced)</div>
+      </div>
+      <br>
+      <h4>Japanese</h4>
+      <div class="box">
+        <div class="skills js">10% (Basic)</div>
+      </div>
+      <div class="row my-auto p-3"> </div>
+    </div>
+    <hr class="border-3 opacity-75">
+  </body>
+</html>
